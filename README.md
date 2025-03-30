@@ -1,7 +1,6 @@
 
 # Ideal-Sampling
-**Name:** Charan PG
-**Roll Number:** 212223060033
+
 # Aim : 
 
 To perform ideal sampling on a continuous-time signal and reconstruct it using Python
